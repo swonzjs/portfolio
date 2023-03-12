@@ -26,7 +26,7 @@ so I was very interested in this topic. My first breakthrough was to write a dis
                     
                 </div>
                 <div className="relative flex-shrink-0">
-                    <img src="https://cdn.discordapp.com/attachments/1082730782554079232/1084520003711287367/logo.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
+                    <img src="https://cdn.discordapp.com/attachments/1082730782554079232/1084108494543790111/swonz.png" style={{ zIndex: 1 }} className="relative shadow-xl z-1 w-full lg:w-64 h-full lg:h-64 rounded-full lg:rounded-lg" />
                     <div className="-right-3 top-3 absolute w-full h-full top-0 right-0 border-4 rounded-full lg:rounded-lg border-primary bg-gradient-to-t from-primary" />
                 </div>
             </div>
