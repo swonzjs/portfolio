@@ -30,12 +30,12 @@ export default function Home() {
           <p className="text-gray-500 dark:text-gray-300 font-semibold text-xl">{skills?.length}+</p>
         </div>
         <div className="rounded-lg border-2 border-gray-500/10 border-dotted px-4 py-2 text-center">
-          <span className="text-primary uppercase">Years of Experience</span>
-          <p className="text-gray-500 dark:text-gray-300 font-semibold text-xl">3+</p>
+          <span className="text-primary uppercase">Months of Experience</span>
+          <p className="text-gray-500 dark:text-gray-300 font-semibold text-xl">4++</p>
         </div>
         <div className="rounded-lg border-2 border-gray-500/10 border-dotted px-4 py-2 text-center">
           <span className="text-primary uppercase">Completed Projects</span>
-          <p className="text-gray-500 dark:text-gray-300 font-semibold text-xl">60+</p>
+          <p className="text-gray-500 dark:text-gray-300 font-semibold text-xl">10+</p>
         </div>
         <div className="rounded-lg border-2 border-gray-500/10 border-dotted px-4 py-2 text-center">
           <span className="text-primary uppercase">Repositories</span>
