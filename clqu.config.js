@@ -1,7 +1,7 @@
 module.exports = {
-    name: 'clqu',
+    name: 'flx',
     version: '3.0.0',
-    githubName: 'clqu',
+    githubName: 'flx',
     githubKey: process.env.GITHUB_KEY,
     softwareerKey: process.env.SOFTWAREER_KEY,
     email: 'flx.dev@yandex.com',
