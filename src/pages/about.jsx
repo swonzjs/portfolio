@@ -17,10 +17,10 @@ export default function About() {
                 <div>
                     <h1 className="text-4xl font-bold">Who Am <span className="relative whitespace-nowrap text-primary">I</span>?</h1>
                     <p className="text-xl mt-1">
-                        Hello, Im clqu. I am 16 years old.
-                        I am a 3rd year high school student, I have been dealing with software for about 3 years.
-                        I started with PHP, developed with Minecraft Plugins and made my biggest improvement with the latest Discord bot.
-                        Since then, software has been more of a hobby for me than a dream, I spent days developing my hobby, I tried to improve my software knowledge for at least 10 hours a day in 1 year, finally here I am.
+                        Hello, Im swonz. I am 15 years old.
+                        I am a 1rd year high school student, I have been dealing with software for about 4 months.
+                        Writing software has always been my dream. My brother was also a developer.
+so I was very interested in this topic. My first breakthrough was to write a discord bot. I spent days and weeks on this but it failed. Then I worked on a discord bot again and it was my biggest breakthrough. You can still use it if you want it active. 
                         Thank you for reading <i className="fa fa-heart" />
                     </p>
                     
