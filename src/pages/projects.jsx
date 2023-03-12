@@ -25,11 +25,11 @@ export default function Projects() {
                                 <img src={project.banner} className="absolute w-full h-full object-cover " />
                             </div>
                             <div className="mt-4">
-                                <p className="text-xl font-semibold">{project.name}</p>
-                                <p className="text-sm max-h-24 h-24 overflow-auto font-normal text-gray-500">{project.overview}</p>
+                                <p className="text-xl font-semibold">{Lexon}</p>
+                                <p className="text-sm max-h-24 h-24 overflow-auto font-normal text-gray-500">{test}</p>
                             </div>
 
-                            <p className="text-xs italic mt-6"><i className="fal fa-globe mr-1" />{project.domain}</p>
+                            <p className="text-xs italic mt-6"><i className="fal fa-globe mr-1" />{lexonbot.vercel.app}</p>
                         </a>
                     ))}
                 </div>
