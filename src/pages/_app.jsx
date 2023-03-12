@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
       <PageProvider>
         <main>
           <head>
-            <title>Swonz Dev.</title>
+            <title>flx Dev.</title>
           </head>
           <CustomCursor />
           <ContextMenu
